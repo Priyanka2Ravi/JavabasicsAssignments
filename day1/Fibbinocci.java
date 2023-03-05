@@ -7,6 +7,7 @@ public class Fibbinocci {
 int firstnum = 0;
 int secondnum = 1;
 System.out.println(firstnum);
+System.out.println(secondnum);
 for ( int i=0 ; i<9 ; i++)
 {
 	int sum = firstnum + secondnum;
